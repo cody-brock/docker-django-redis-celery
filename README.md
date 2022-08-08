@@ -1,3 +1,12 @@
+# About
+Simple toy Django project that uses Redis and Celery to send emails.
+
+Using this to practice task queues, redis, dockerizing apps, Django, and scripting dev environment setup.
+
+Borrowed pieces from these links:
+https://realpython.com/asynchronous-tasks-with-django-and-celery/
+https://soshace.com/dockerizing-django-with-postgres-redis-and-celery/
+
 # Setup
 
 ## Setting up dev environment
