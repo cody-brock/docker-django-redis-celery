@@ -33,4 +33,6 @@ EMAIL_HOST_USER=<email_address_here>
 EMAIL_HOST_PASSWORD=<email_password_here>
 EMAIL_USE_TLS=True
 EMAIL_PORT=587
+
+DJANGO_SECRET_KEY=<secret_key_here>
 EOF
