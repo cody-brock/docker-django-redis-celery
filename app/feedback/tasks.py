@@ -11,7 +11,7 @@ def send_feedback_email_task(email_address, message):
     send_mail(
         "Your Feedback",
         f"\t{message}\n\nThank you!",
-        "support@example.com",
+        None,
         [email_address],
         fail_silently=False,
     )
